@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+body {
+    background-image: linear-gradient(to bottom, #db525a, #f4bba0);
+    background-attachment: fixed;
+}
+img{
+    border-radius: 30px;
+    margin: auto;
+    box-shadow: -5px 5px 15px black;
+}
+center {
+    font-size: 25px;
+    font-family: "Brush Script MT", cursive;
+    
+}
+main{
+    background-color: #f4bba0;
+    width: 500px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 25px;
+    box-shadow: -5px 5px 15px black;
+}
